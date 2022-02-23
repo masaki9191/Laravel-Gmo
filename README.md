@@ -1,0 +1,2 @@
+# Laravel-Gmo
+# Laravel Relaionship

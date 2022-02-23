@@ -1,0 +1,51 @@
+{
+    "Login": "ログイン",    
+    "Logout": "ログアウト",
+    "Login ID": "ログインI D",
+    "E-Mail Address": "メールアドレス ",
+    "Password": "パスワード",
+    "Forgot Your Password?": "パスワードをお忘れですか？",
+    
+    "New Register": "新規登録",
+    "Register": "登録",
+    "Show": "閲覧",
+    "Edit": "編集",
+    "Delete": "削除",
+
+    "Name": "名前",
+    "Furigana": "ふりがな",
+    "Address": "住所",
+    "Postal Code": "郵便番号",
+    "Introducer I D": "紹介者I D",
+    "Confirm Password": "パスワード再入力",
+    "Confirm": "(確認用）",
+    
+    "Reset Password": "パスワード再発行",
+    "Send Password Reset Link": "送信",    
+    
+    
+
+    "Hello!": "こんにちは！",
+    "Regards": "よろしく",
+    "Reset Password Notification": "パスワード通知のリセット",
+    "You are receiving this email because we received a password reset request for your account.": "お客様のアカウントのパスワード リセット リクエストを受信したため、このメールをお送りしています。",
+    "expire": "期限切れ",
+    "If you did not request a password reset, no further action is required.": "パスワードのリセットをリクエストしなかった場合、これ以上のアクションは必要ありません。",
+    
+    "Dashboard": "トップ",
+    "Map": "マップ",
+    "Information": "登録情報",
+    "User List":"登録者情報一覧",
+    "Introducer Register": "紹介者登録",
+
+    "Empty": "資料がありません。",
+
+    "Verify Your Email Address": "あなたのメールアドレスを確認してください。",
+    "Before proceeding, please check your email for a verification link.": "続行する前に、メールで確認リンクを確認してください。",
+    "If you did not receive the email": "メールが届かない場合",    
+    "click here to request another": "別のものをリクエストするには、ここをクリックしてください",
+
+    "Verify Email Address": "メールアドレスの確認",
+    "Please click the button below to verify your email address.": "下のボタンをクリックして、メールアドレスを確認してください。",
+    "If you did not create an account, no further action is required.": "アカウントを作成していない場合は、これ以上の操作は必要ありません。"
+}
